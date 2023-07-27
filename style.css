@@ -1,0 +1,81 @@
+/*
+  *{
+    background-color: aqua;
+}*/
+.c1 p{
+    color: midnightblue;
+}
+p{
+    color:darkcyan;
+    font-size: 17px;
+}
+/*
+.c1 p{
+    color:powderblue;
+}*/
+.c1{
+    color: midnightblue;
+    border-style: solid dotted dashed ridge;
+    border-width: 5px 10px 15px 20px;
+    border-color:palevioletred yellowgreen beige cadetblue;
+}
+.c4 #p4{
+    background-color: blueviolet;
+    color: aliceblue;
+}
+.c1{
+   color: chocolate;
+    background-image: url("rose.jpg");
+    background-repeat: no-repeat;
+     height: auto;
+    width: 950px;
+    background-size: contain;
+    background-attachment: inherit;
+    background-position: top;
+}
+.c2{
+    color: darkturquoise;
+    background-image: url("rose.jpg");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: bottom;
+    background-size: contain;
+}
+.c3{
+    color: darkkhaki;
+    background-image: url("rose.jpg");
+    background-repeat:repeat-x;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: auto;
+}
+.c5 p{
+    color: olivedrab;
+    background: #fff
+        url("rose.jpg")
+        no-repeat right top; 
+}
+.c6 p h2{
+    color: cornflowerblue;
+    background: #fff
+        url("rose.jpg")
+        no-repeat 200px 300px; 
+}
+h2{
+    
+    border-style: none none solid ridge;
+    border-width: 20px;
+    border-color: yellowgreen;
+}
+.c8 p{
+    color: peru;
+    height: 700;
+    width: 650;
+    border: 7px dashed olive;
+}
+h1{
+    
+    border-style: dotted none solid ridge;
+    border-width: 20px 15px 10px;
+    border-color: yellowgreen green blueviolet;
+}
